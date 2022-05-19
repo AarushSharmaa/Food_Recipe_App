@@ -6,4 +6,5 @@
 #  Current Status 
 
 - In progress. HTML and CSS portion of the web app have been completed.
-- Adding Javascript is remaining. 
+- Javascript is in progress. 
+- At the end, will test the web app across mobile for responsiveness.
