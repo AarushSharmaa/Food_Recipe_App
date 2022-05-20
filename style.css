@@ -131,6 +131,7 @@ form ion-icon {
     text-align: center;
     margin: 2rem;
     padding: 2rem;
+    background-color: whitesmoke;
 }
 
 .footer-header {
@@ -138,6 +139,7 @@ form ion-icon {
     color: #7c3aed;
     font-size: 23px;
     margin-left: 50px;
+    padding: 2px;
 }
 
 .footer .list-of-icons {
@@ -154,4 +156,17 @@ form ion-icon {
 
 .footer .active-link {
     padding: 2%;
+}
+
+.container .initial .brand {
+    font-size: 7rem;
+}
+
+.container .initial form {
+    max-width: 800px;
+}
+
+.container .initial form input {
+    padding: 20px;
+    font-size: 3rem;
 }
