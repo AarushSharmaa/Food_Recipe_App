@@ -7,4 +7,3 @@
 
 - In progress. HTML and CSS portion of the web app have been completed.
 - Javascript is in progress. 
-- At the end, will test the web app across mobile for responsiveness.
